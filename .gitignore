@@ -1,0 +1,15 @@
+/.idea/
+/media/
+/db.sqlite3
+*/__pycache__/
+*.pyc
+*/migrations/
+*/prod_settings.py
+*/CACHE
+data/
+venv/
+static/admin/
+static/django_tinymce/
+static/tiny_mce/
+static/env/
+static/guardian/
